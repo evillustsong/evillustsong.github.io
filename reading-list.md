@@ -1,22 +1,20 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 추후 작업 내용
+subtitle: 추후 작업내용
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+추후작업내용:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. 포트폴리오 추가
+2. 사진목록 추가
+3. 칼럼 추가
+4. 맛집리스트
+5. 댓글달기
+6. 홈페이지 제작 및 서버 제작 정리
+7. 천문관련 정보 정리
+8. 나만의 집 만들기
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+source: [Evil Lust Song](https://evillustsong.github.io/)
